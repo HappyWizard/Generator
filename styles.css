@@ -68,5 +68,9 @@ button:hover {
 .selected-restaurant {
     margin-top: 20px;
     font-size: 1.2em;
-    color: #007bff;
+    color: black;
+    font-style: bold;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
 }
