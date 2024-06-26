@@ -70,7 +70,7 @@ button:hover {
     font-size: 1.2em;
     color: black;
     font-style: bold;
-    background-color: white;
+    background-color: transparent;
     padding: 20px;
     border-radius: 10px;
 }

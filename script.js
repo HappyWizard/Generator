@@ -46,6 +46,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const randomIndex = Math.floor(Math.random() * restaurants.length);
         const restaurant = restaurants[randomIndex];
         selectedRestaurant.textContent = `You should try: ${restaurant.name}`;
+        selectedRestaurant.style.backgroundColor = "white";
     };
 
     // Event listener for the button
