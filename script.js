@@ -15,7 +15,14 @@ document.addEventListener('DOMContentLoaded', () => {
         { name: 'Suasana G30', image: 'https://i0.wp.com/kdhongkong.com.my/wp-content/uploads/2021/07/02.jpg?fit=600%2C610&ssl=1' },
         { name: 'OO White Coffee', image: 'https://lh5.googleusercontent.com/p/AF1QipO2alcvwfBimG98CcFspug1_UhcFiGBr4PaGkeW=w427-h240-k-no' },
         { name: 'Taco Bell Batu Kawan', image: 'https://lh5.googleusercontent.com/p/AF1QipOCas8ZsOt6DBcBF6NZ3uAP4AT7Gu9DTZLHs1G1=w408-h544-k-no' },
-        { name: 'The Krabi Cuisine', image: 'https://images.deliveryhero.io/image/fd-my/LH/sz8b-listing.jpg' }
+        { name: 'The Krabi Cuisine', image: 'https://images.deliveryhero.io/image/fd-my/LH/sz8b-listing.jpg' },
+        { name: 'Tambun Jade', image: 'https://undergo.com.my/projects/wp-content/uploads/2023/06/19-1024x768.png' },
+        { name: 'Yen Seafood Restaurant', image: 'https://chiefeater.com/wp-content/uploads/2024/01/yen_batu_kawan_seafood_jan2024_joanlimchoong_03.jpg' },
+        { name: 'James Foo', image: 'https://images.deliveryhero.io/image/fd-my/LH/om41-hero.jpg?width=512&height=384&quality=45' },
+        { name: '大番薯饮食中心', image: 'https://fastly.4sqi.net/img/general/600x600/51312373_4aAykNznERGW2ftwzZsH9w0qZAFNjRjbCZV9WmB3btE.jpg' },
+        { name: 'KO.B.Q Korean BBQ Restaurant', image: 'https://media-cdn.tripadvisor.com/media/photo-s/09/75/5d/b7/2015-11-07-09-largejpg.jpg' },
+        { name: '豪记咖喱饭 How Kee Curry', image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYlYHSlmMh0pol4jGXw_b7T7vaAKuJtFESiktTPh8F23M6RFfwmoTF5ENYAt_DkhtCRBfGgf5cpQZgBdgQ3HyM-gEzfGi-YgUhk84PvQ2wHN3atTxyaUBzZlqcrhrwcITeICga4UUxeu4/s1600/DSC07952.jpg' },
+        { name: 'Kampung Bi Seafood Noodles House', image: 'https://images.deliveryhero.io/image/fd-my/Products/1415192992.jpg?width=%s' }
 
         // Add more restaurants as needed
     ];
